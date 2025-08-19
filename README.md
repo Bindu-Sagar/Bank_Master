@@ -14,22 +14,6 @@ Users can register, log in, view their account history, open new accounts, make 
 Feel free to ask if you have any further questions or need additional information!
 
 
-
-
-
-## Project Images and Components
-
-![Uygulama Ekran Görüntüsü](loginPage.png)
-
-![Uygulama Ekran Görüntüsü](ProjecPage1.png)
-
-![Uygulama Ekran Görüntüsü](ProjectPage2.png)
-
-![Uygulama Ekran Görüntüsü](ProjectPage3.png)
-
-![Uygulama Ekran Görüntüsü](ProjectPage5.png)
-
-
   
 ## Features
 
@@ -62,13 +46,6 @@ Start for Project
 **Technologies:** - React, Redux, Router Dom
 - Redux Thunk
   
-## Related projects
-
-You can take a look at the frontends for my React Redux Online Banking App and Android Java Online Banking App projects for this application.
-
-Java Spring Online Banking Rest Api [Java Spring Rest API]( https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
-
-Android Online Banking App: [Android Java Online Banking App]( https://github.com/Berko01/Android-Online-Banking-App-With-Java-Spring)
 
 
 
